@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>電子図書館 利用タイプ診断</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 40px 20px;
+      line-height: 1.8;
+      background: #f7f8fa;
+      color: #222;
+    }
+    main {
+      max-width: 440px;
+      margin: auto;
+      padding: 28px 20px;
+      background: white;
+      border-radius: 16px;
+    }
+    a {
+      display: block;
+      margin-top: 24px;
+      padding: 14px;
+      background: #1769aa;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>電子図書館 利用タイプ診断</h1>
+    <p>アンケートに回答して、あなたの利用タイプと回答者全体の状況を確認しましょう。</p>
+    <a href="https://script.google.com/macros/s/AKfycbzdlBxEwGaZCpjvyEn3KzQzkIlKeZ7pnYxLpu8GfRYeXAng5lvuUn7ntt4XBPKebDqf/exec">
+      診断を開始する
+    </a>
+  </main>
+</body>
+</html>
